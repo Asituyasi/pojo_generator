@@ -1,6 +1,6 @@
 # Java Pojo Generator
 
-can generator java pojo easyly.There is src code all
+We can generate java pojo easyly.There are all src code.
 
 ```
 import java.io.*;
