@@ -15,9 +15,9 @@ import java.util.List;
 public class PojoSourceFileGerator {
     
     public static String driver = "com.mysql.jdbc.Driver";
-    public static String url = "jdbc:mysql://localhost:3306/hrmanager?useSSL=false&useUnicode=true&autoReconnect=true&characterEncoding=utf8";
+    public static String url = "jdbc:mysql://localhost:3306/dbName?useSSL=false&useUnicode=true&autoReconnect=true&characterEncoding=utf8";
     public static String user = "root";
-    public static String psd = "root";
+    public static String psd = "***";
     public static String dataBaseTableName = "user";
     public static String className = null;
     public static String filePath = "src/test/java/";
